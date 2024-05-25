@@ -1,2 +1,3 @@
 # Snake-Game-
 its a exciting game you will never across the Score 50  I bet you ......
+![Screenshot 2024-05-25 194645](https://github.com/villan7667/Snake-Game-/assets/164766416/5388e764-4aeb-44f3-91f3-7ded1859d9fe)
